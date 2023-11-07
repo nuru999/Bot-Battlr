@@ -13,6 +13,7 @@ Here's the scenario: a galactic overlord has hired you, a galactic web developer
 For this project, you’ll be building out a React application that displays a list of available bots, among other features. Try your best to find the right places to insert code into the established code base.
 
 Part of what this code challenge is testing is your ability to follow given instructions. While you will definitely have a significant amount of freedom in how you implement the features, be sure to carefully read the directions for setting up the application.
+https://github.com/nuru999/Bot-Battlr.git
 
 ## Setup
 
@@ -108,4 +109,4 @@ As a user, I should be able to:
 
 5. Everything from 4 plus extra features were added that are not listed in the deliverables.
 
-**Good Luck!**
+**Best of luck!**
